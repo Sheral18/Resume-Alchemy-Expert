@@ -1,5 +1,5 @@
 # Resume-Parser
-NLP 
+
 This code is an implementation of a pipeline that pulls experience and talents from resume texts and groups them into several domains or categories, such as data science, web development, etc. There are various steps in the pipeline, which are described below:
 
 1)	The required libraries, including os, re, pandas, numpy, spacy, and numerous classes and functions from scikit-learn, are first imported.
